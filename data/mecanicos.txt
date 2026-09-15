@@ -1,0 +1,6 @@
+CC;1108084244;Cristian;Suarez
+PA;1864278418;David;Rodriguez
+PA;1686014677;Oscar;Perez
+PA;1657755112;Fabian;Ramirez
+TI;1049018873;Cristian;Garcia
+PA;1031668076;Ricardo;Suarez
