@@ -2,6 +2,8 @@
 
 **INTEGRANTES:** Jhonatan Armando Moreno Bohada  
                 Edison Norvey Luis Sanchez
+                John Edwin Linares Buitrago
+                Natalia Andrea Lopez Cardona
 **Modulo:** Conceptos Fundamentales de Programación 
 **Entrega:** Entrega 1 - Semana 3  
 **Tema elegido:** Gestion de repuestos y órdenes de trabajo de un taller automotriz  

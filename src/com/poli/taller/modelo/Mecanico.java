@@ -9,6 +9,9 @@ package com.poli.taller.modelo;
  *
  * @author Jhonatan Armando Moreno Bohada
  *         Edison Norvey Luis Sanchez
+ *         John Edwin Linares Buitrago
+ *         Natalia Andrea Lopez Cardona
+ * 
  * @version 1.0
  */
 public class Mecanico {
