@@ -1,5 +1,11 @@
 bin/
 *.class
+
 .settings/
-.project/
+.project
 .classpath
+
+.vscode/
+.idea/
+
+*.log
