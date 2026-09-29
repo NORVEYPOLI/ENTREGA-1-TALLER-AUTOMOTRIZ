@@ -8,10 +8,10 @@
 
 ---
 
-**Modulo:** Conceptos Fundamentales de Programación
-**Tema elegido:** Gestion de repuestos y órdenes de trabajo de un taller automotriz
-**Java:** compatible con Java 8
-**Entorno de desarrollo:** Visual Studio Code; el proyecto conserva la configuracion para Eclipse.
+- **Modulo:** Conceptos Fundamentales de Programación
+- **Tema elegido:** Gestion de repuestos y órdenes de trabajo de un taller automotriz
+- **Java:** compatible con Java 8
+- **Entorno de desarrollo:** Visual Studio Code; el proyecto conserva la configuracion para Eclipse.
 
 ## Historial de entregas
 
@@ -96,3 +96,4 @@ El proyecto tiene **exactamente dos clases con `main`**, y deben ejecutarse en e
 ```
 
 Ninguna de las dos clases solicita información por consola.
+
