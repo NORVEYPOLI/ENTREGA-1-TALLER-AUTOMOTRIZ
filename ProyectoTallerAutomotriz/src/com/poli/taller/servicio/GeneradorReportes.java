@@ -12,10 +12,8 @@ import java.io.*;
  *
  * El reporte generado permite consultar cuáles repuestos presentan mayor
  * frecuencia de uso y facilita la toma de decisiones relacionadas con inventario.
- *
- * @author Equipo Taller Automotriz
- * @version 1.0
  */
+
 public class GeneradorReportes {
 
 

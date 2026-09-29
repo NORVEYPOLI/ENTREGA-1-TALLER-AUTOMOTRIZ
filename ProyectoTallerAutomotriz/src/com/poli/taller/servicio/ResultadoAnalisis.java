@@ -12,10 +12,9 @@ import java.util.Map;
  *
  * Contiene la información relacionada con la cantidad de uso de cada repuesto,
  * el número de órdenes procesadas y el repuesto con mayor nivel de rotación.
- *
- * @author Equipo Taller Automotriz
- * @version 1.0
+
  */
+
 public class ResultadoAnalisis {
 
 

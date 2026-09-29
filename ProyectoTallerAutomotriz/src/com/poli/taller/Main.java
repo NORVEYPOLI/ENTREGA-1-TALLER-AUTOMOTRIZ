@@ -15,9 +15,8 @@ import com.poli.taller.servicio.ResultadoAnalisis;
  * obtener los resultados del procesamiento y generar el reporte final
  * con la información de rotación de inventario.
  *
- * @author Equipo Taller Automotriz
- * @version 1.0
  */
+
 public class Main {
 
 
