@@ -1,0 +1,21 @@
+ID_REPUESTO;NOMBRE_REPUESTO;CANTIDAD_USADA;NIVEL_ROTACION
+1;Filtro de aceite;10;Rotacion alta
+8;Bateria;7;Rotacion alta
+11;Disco de freno;6;Rotacion media
+16;Llanta;6;Rotacion media
+19;Bujia;5;Rotacion media
+20;Bateria;4;Rotacion media
+5;Disco de freno;4;Rotacion media
+9;Sensor de oxigeno;4;Rotacion media
+6;Radiador;2;Rotacion baja
+7;Correa de distribucion;1;Rotacion baja
+4;Aceite de motor;0;Sin uso
+2;Alternador;0;Sin uso
+3;Amortiguador;0;Sin uso
+18;Bateria;0;Sin uso
+13;Bujia;0;Sin uso
+10;Filtro de aire;0;Sin uso
+17;Fusible;0;Sin uso
+14;Rotula de suspension;0;Sin uso
+12;Sensor de oxigeno;0;Sin uso
+15;Sensor de oxigeno;0;Sin uso

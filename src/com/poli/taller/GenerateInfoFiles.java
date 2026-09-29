@@ -33,7 +33,7 @@ import com.poli.taller.modelo.Repuesto;
  *         Edison Norvey Luis Sanchez
  *         John Edwin Linares Buitrago
  *         Natalia Andrea Lopez Cardona
- * @version 1.1
+ * @version 1.0
  */
 public class GenerateInfoFiles {
 

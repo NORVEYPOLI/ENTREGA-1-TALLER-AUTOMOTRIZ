@@ -1,6 +1,6 @@
-CC;1108084244;Cristian;Suarez
-PA;1864278418;David;Rodriguez
-PA;1686014677;Oscar;Perez
-PA;1657755112;Fabian;Ramirez
-TI;1049018873;Cristian;Garcia
-PA;1031668076;Ricardo;Suarez
+TI;1587347933;Wilson;Rojas
+CC;1617310030;Julian;Perez
+TI;1882878483;Mauricio;Ruiz
+CC;1753305842;Nelson;Moreno
+CC;1380843351;David;Moreno
+TI;1899120238;Ricardo;Alvarez

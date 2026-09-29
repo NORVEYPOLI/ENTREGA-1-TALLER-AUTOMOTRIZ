@@ -25,12 +25,6 @@ public class Repuesto {
     /** Precio de venta por unidad del repuesto. */
     private final double precioPorUnidad;
 
-    /** Categoría del repuesto. */
-    private final String categoria;
-
-    /** Cantidad disponible en inventario. */
-    private final int stockDisponible;
-
     /**
      * Crea una nueva instancia de {@code Repuesto}.
      *
@@ -42,16 +36,6 @@ public class Repuesto {
         this.id = id;
         this.nombre = nombre;
         this.precioPorUnidad = precioPorUnidad;
-        this.categoria = "";
-        this.stockDisponible = 0;
-    }
-
-    public int getStockDisponible() {
-        return stockDisponible;
-    }
-
-    public String getCategoria() {
-        return categoria;
     }
 
     /**
@@ -89,10 +73,6 @@ public class Repuesto {
      * @return línea formateada, lista para escribirse en el archivo plano.
      */
     public String toFileLine() {
-        return id + ";" 
-        + nombre + ";" 
-        + precioPorUnidad + ";"
-        + categoria + ";"
-        + stockDisponible;
+        return id + ";" + nombre + ";" + precioPorUnidad;
     }
 }
